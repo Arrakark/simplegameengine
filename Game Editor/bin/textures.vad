@@ -1,0 +1,17 @@
+id 0
+path bin/textures/man2.bmp
+frames 3
+width 1
+height 1
+
+id 4
+path bin/textures/floor1.bmp
+frames 1
+width 1
+height 1
+
+id 2
+path bin/textures/wall1.bmp
+frames 1
+width 1
+height 1

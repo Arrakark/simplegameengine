@@ -1,0 +1,1495 @@
+id 217
+texture 4
+x 12
+y 5
+
+id 219
+texture 4
+x 13
+y 5
+
+id 221
+texture 4
+x 14
+y 5
+
+id 223
+texture 4
+x 15
+y 5
+
+id 225
+texture 4
+x 16
+y 5
+
+id 227
+texture 4
+x 17
+y 5
+
+id 229
+texture 4
+x 18
+y 5
+
+id 231
+texture 4
+x 19
+y 5
+
+id 233
+texture 4
+x 20
+y 5
+
+id 241
+texture 4
+x 12
+y 6
+
+id 242
+texture 4
+x 12
+y 7
+
+id 243
+texture 4
+x 13
+y 6
+
+id 244
+texture 4
+x 13
+y 7
+
+id 245
+texture 4
+x 14
+y 6
+
+id 246
+texture 4
+x 14
+y 7
+
+id 247
+texture 4
+x 15
+y 6
+
+id 248
+texture 4
+x 15
+y 7
+
+id 249
+texture 4
+x 16
+y 6
+
+id 250
+texture 4
+x 16
+y 7
+
+id 251
+texture 4
+x 17
+y 6
+
+id 252
+texture 4
+x 17
+y 7
+
+id 253
+texture 4
+x 18
+y 6
+
+id 254
+texture 4
+x 18
+y 7
+
+id 255
+texture 4
+x 19
+y 6
+
+id 256
+texture 4
+x 19
+y 7
+
+id 257
+texture 4
+x 20
+y 6
+
+id 258
+texture 4
+x 20
+y 7
+
+id 265
+texture 4
+x 21
+y 6
+
+id 266
+texture 4
+x 21
+y 7
+
+id 273
+texture 4
+x 22
+y 6
+
+id 274
+texture 4
+x 22
+y 7
+
+id 281
+texture 4
+x 23
+y 6
+
+id 282
+texture 4
+x 23
+y 7
+
+id 289
+texture 4
+x 24
+y 6
+
+id 290
+texture 4
+x 24
+y 7
+
+id 297
+texture 4
+x 25
+y 6
+
+id 298
+texture 4
+x 25
+y 7
+
+id 305
+texture 4
+x 26
+y 6
+
+id 306
+texture 4
+x 26
+y 7
+
+id 313
+texture 4
+x 27
+y 6
+
+id 314
+texture 4
+x 27
+y 7
+
+id 321
+texture 4
+x 28
+y 6
+
+id 322
+texture 4
+x 28
+y 7
+
+id 329
+texture 4
+x 29
+y 6
+
+id 330
+texture 4
+x 29
+y 7
+
+id 335
+texture 4
+x 30
+y 4
+
+id 336
+texture 4
+x 30
+y 5
+
+id 337
+texture 4
+x 30
+y 6
+
+id 338
+texture 4
+x 30
+y 7
+
+id 343
+texture 4
+x 21
+y 4
+
+id 344
+texture 4
+x 21
+y 5
+
+id 349
+texture 4
+x 22
+y 4
+
+id 350
+texture 4
+x 22
+y 5
+
+id 355
+texture 4
+x 23
+y 4
+
+id 356
+texture 4
+x 23
+y 5
+
+id 361
+texture 4
+x 24
+y 4
+
+id 362
+texture 4
+x 24
+y 5
+
+id 367
+texture 4
+x 25
+y 4
+
+id 368
+texture 4
+x 25
+y 5
+
+id 373
+texture 4
+x 26
+y 4
+
+id 374
+texture 4
+x 26
+y 5
+
+id 379
+texture 4
+x 27
+y 4
+
+id 380
+texture 4
+x 27
+y 5
+
+id 385
+texture 4
+x 28
+y 4
+
+id 386
+texture 4
+x 28
+y 5
+
+id 391
+texture 4
+x 29
+y 4
+
+id 392
+texture 4
+x 29
+y 5
+
+id 393
+texture 4
+x 21
+y -2
+
+id 394
+texture 4
+x 21
+y -1
+
+id 395
+texture 4
+x 21
+y 0
+
+id 396
+texture 4
+x 21
+y 1
+
+id 397
+texture 4
+x 21
+y 2
+
+id 398
+texture 4
+x 21
+y 3
+
+id 399
+texture 4
+x 22
+y -2
+
+id 400
+texture 4
+x 22
+y -1
+
+id 401
+texture 4
+x 22
+y 0
+
+id 402
+texture 4
+x 22
+y 1
+
+id 403
+texture 4
+x 22
+y 2
+
+id 404
+texture 4
+x 22
+y 3
+
+id 405
+texture 4
+x 23
+y -2
+
+id 406
+texture 4
+x 23
+y -1
+
+id 407
+texture 4
+x 23
+y 0
+
+id 408
+texture 4
+x 23
+y 1
+
+id 409
+texture 4
+x 23
+y 2
+
+id 410
+texture 4
+x 23
+y 3
+
+id 411
+texture 4
+x 24
+y -2
+
+id 412
+texture 4
+x 24
+y -1
+
+id 413
+texture 4
+x 24
+y 0
+
+id 414
+texture 4
+x 24
+y 1
+
+id 415
+texture 4
+x 24
+y 2
+
+id 416
+texture 4
+x 24
+y 3
+
+id 417
+texture 4
+x 25
+y -2
+
+id 418
+texture 4
+x 25
+y -1
+
+id 419
+texture 4
+x 25
+y 0
+
+id 420
+texture 4
+x 25
+y 1
+
+id 421
+texture 4
+x 25
+y 2
+
+id 422
+texture 4
+x 25
+y 3
+
+id 423
+texture 4
+x 26
+y -2
+
+id 424
+texture 4
+x 26
+y -1
+
+id 425
+texture 4
+x 26
+y 0
+
+id 426
+texture 4
+x 26
+y 1
+
+id 427
+texture 4
+x 26
+y 2
+
+id 428
+texture 4
+x 26
+y 3
+
+id 429
+texture 4
+x 27
+y -2
+
+id 430
+texture 4
+x 27
+y -1
+
+id 431
+texture 4
+x 27
+y 0
+
+id 432
+texture 4
+x 27
+y 1
+
+id 433
+texture 4
+x 27
+y 2
+
+id 434
+texture 4
+x 27
+y 3
+
+id 435
+texture 4
+x 28
+y -2
+
+id 436
+texture 4
+x 28
+y -1
+
+id 437
+texture 4
+x 28
+y 0
+
+id 438
+texture 4
+x 28
+y 1
+
+id 439
+texture 4
+x 28
+y 2
+
+id 440
+texture 4
+x 28
+y 3
+
+id 441
+texture 4
+x 29
+y -2
+
+id 442
+texture 4
+x 29
+y -1
+
+id 443
+texture 4
+x 29
+y 0
+
+id 444
+texture 4
+x 29
+y 1
+
+id 445
+texture 4
+x 29
+y 2
+
+id 446
+texture 4
+x 29
+y 3
+
+id 447
+texture 4
+x 30
+y -2
+
+id 448
+texture 4
+x 30
+y -1
+
+id 449
+texture 4
+x 30
+y 0
+
+id 450
+texture 4
+x 30
+y 1
+
+id 451
+texture 4
+x 30
+y 2
+
+id 452
+texture 4
+x 30
+y 3
+
+id 454
+texture 2
+x 11
+y 8
+
+id 455
+texture 2
+x 12
+y 8
+
+id 456
+texture 2
+x 13
+y 8
+
+id 457
+texture 2
+x 14
+y 8
+
+id 458
+texture 2
+x 15
+y 8
+
+id 459
+texture 2
+x 16
+y 8
+
+id 460
+texture 2
+x 17
+y 8
+
+id 461
+texture 2
+x 18
+y 8
+
+id 462
+texture 2
+x 19
+y 8
+
+id 463
+texture 2
+x 20
+y 8
+
+id 464
+texture 2
+x 21
+y 8
+
+id 466
+texture 2
+x 22
+y 8
+
+id 467
+texture 2
+x 23
+y 8
+
+id 468
+texture 2
+x 24
+y 8
+
+id 469
+texture 2
+x 25
+y 8
+
+id 470
+texture 2
+x 26
+y 8
+
+id 471
+texture 2
+x 27
+y 8
+
+id 472
+texture 2
+x 28
+y 8
+
+id 473
+texture 2
+x 29
+y 8
+
+id 474
+texture 2
+x 30
+y 8
+
+id 476
+texture 2
+x 31
+y -2
+
+id 477
+texture 2
+x 31
+y -1
+
+id 478
+texture 2
+x 31
+y 0
+
+id 479
+texture 2
+x 31
+y 1
+
+id 480
+texture 2
+x 31
+y 2
+
+id 481
+texture 2
+x 31
+y 3
+
+id 484
+texture 2
+x 31
+y 4
+
+id 485
+texture 2
+x 31
+y 5
+
+id 486
+texture 2
+x 31
+y 6
+
+id 487
+texture 2
+x 31
+y 7
+
+id 488
+texture 2
+x 31
+y 8
+
+id 489
+texture 2
+x 20
+y -3
+
+id 490
+texture 2
+x 21
+y -3
+
+id 491
+texture 2
+x 22
+y -3
+
+id 492
+texture 2
+x 23
+y -3
+
+id 493
+texture 2
+x 24
+y -3
+
+id 494
+texture 2
+x 25
+y -3
+
+id 495
+texture 2
+x 26
+y -3
+
+id 496
+texture 2
+x 27
+y -3
+
+id 497
+texture 2
+x 28
+y -3
+
+id 498
+texture 2
+x 29
+y -3
+
+id 499
+texture 2
+x 30
+y -3
+
+id 500
+texture 2
+x 31
+y -3
+
+id 501
+texture 2
+x 20
+y -2
+
+id 502
+texture 2
+x 20
+y -1
+
+id 503
+texture 2
+x 20
+y 0
+
+id 504
+texture 2
+x 20
+y 1
+
+id 505
+texture 2
+x 20
+y 2
+
+id 506
+texture 2
+x 20
+y 3
+
+id 507
+texture 2
+x 20
+y 4
+
+id 509
+texture 2
+x 11
+y 4
+
+id 510
+texture 2
+x 12
+y 4
+
+id 511
+texture 2
+x 13
+y 4
+
+id 512
+texture 2
+x 14
+y 4
+
+id 513
+texture 2
+x 15
+y 4
+
+id 514
+texture 2
+x 16
+y 4
+
+id 515
+texture 2
+x 17
+y 4
+
+id 516
+texture 2
+x 18
+y 4
+
+id 517
+texture 2
+x 19
+y 4
+
+id 518
+texture 2
+x 1
+y 1
+
+id 519
+texture 2
+x 1
+y 2
+
+id 520
+texture 2
+x 1
+y 3
+
+id 521
+texture 2
+x 1
+y 4
+
+id 522
+texture 2
+x 1
+y 5
+
+id 523
+texture 2
+x 1
+y 6
+
+id 524
+texture 2
+x 1
+y 7
+
+id 525
+texture 2
+x 1
+y 8
+
+id 526
+texture 2
+x 1
+y 9
+
+id 527
+texture 2
+x 1
+y 10
+
+id 528
+texture 2
+x 1
+y 11
+
+id 529
+texture 2
+x 2
+y 1
+
+id 539
+texture 2
+x 2
+y 11
+
+id 540
+texture 2
+x 3
+y 1
+
+id 550
+texture 2
+x 3
+y 11
+
+id 551
+texture 2
+x 4
+y 1
+
+id 561
+texture 2
+x 4
+y 11
+
+id 562
+texture 2
+x 5
+y 1
+
+id 572
+texture 2
+x 5
+y 11
+
+id 573
+texture 2
+x 6
+y 1
+
+id 583
+texture 2
+x 6
+y 11
+
+id 584
+texture 2
+x 7
+y 1
+
+id 594
+texture 2
+x 7
+y 11
+
+id 595
+texture 2
+x 8
+y 1
+
+id 605
+texture 2
+x 8
+y 11
+
+id 606
+texture 2
+x 9
+y 1
+
+id 616
+texture 2
+x 9
+y 11
+
+id 617
+texture 2
+x 10
+y 1
+
+id 618
+texture 2
+x 10
+y 2
+
+id 619
+texture 2
+x 10
+y 3
+
+id 620
+texture 2
+x 10
+y 4
+
+id 624
+texture 2
+x 10
+y 8
+
+id 625
+texture 2
+x 10
+y 9
+
+id 626
+texture 2
+x 10
+y 10
+
+id 627
+texture 2
+x 10
+y 11
+
+id 700
+texture 4
+x 2
+y 2
+
+id 701
+texture 4
+x 2
+y 3
+
+id 702
+texture 4
+x 2
+y 4
+
+id 703
+texture 4
+x 2
+y 5
+
+id 704
+texture 4
+x 2
+y 6
+
+id 705
+texture 4
+x 2
+y 7
+
+id 706
+texture 4
+x 2
+y 8
+
+id 707
+texture 4
+x 2
+y 9
+
+id 708
+texture 4
+x 2
+y 10
+
+id 709
+texture 4
+x 3
+y 2
+
+id 711
+texture 4
+x 3
+y 4
+
+id 712
+texture 4
+x 3
+y 5
+
+id 713
+texture 4
+x 3
+y 6
+
+id 714
+texture 4
+x 3
+y 7
+
+id 715
+texture 4
+x 3
+y 8
+
+id 716
+texture 4
+x 3
+y 9
+
+id 717
+texture 4
+x 3
+y 10
+
+id 718
+texture 4
+x 4
+y 2
+
+id 719
+texture 4
+x 4
+y 3
+
+id 720
+texture 4
+x 4
+y 4
+
+id 721
+texture 4
+x 4
+y 5
+
+id 722
+texture 4
+x 4
+y 6
+
+id 723
+texture 4
+x 4
+y 7
+
+id 724
+texture 4
+x 4
+y 8
+
+id 725
+texture 4
+x 4
+y 9
+
+id 726
+texture 4
+x 4
+y 10
+
+id 727
+texture 4
+x 5
+y 2
+
+id 728
+texture 4
+x 5
+y 3
+
+id 729
+texture 4
+x 5
+y 4
+
+id 730
+texture 4
+x 5
+y 5
+
+id 731
+texture 4
+x 5
+y 6
+
+id 732
+texture 4
+x 5
+y 7
+
+id 733
+texture 4
+x 5
+y 8
+
+id 734
+texture 4
+x 5
+y 9
+
+id 735
+texture 4
+x 5
+y 10
+
+id 736
+texture 4
+x 6
+y 2
+
+id 737
+texture 4
+x 6
+y 3
+
+id 738
+texture 4
+x 6
+y 4
+
+id 739
+texture 4
+x 6
+y 5
+
+id 740
+texture 4
+x 6
+y 6
+
+id 741
+texture 4
+x 6
+y 7
+
+id 742
+texture 4
+x 6
+y 8
+
+id 743
+texture 4
+x 6
+y 9
+
+id 744
+texture 4
+x 6
+y 10
+
+id 745
+texture 4
+x 7
+y 2
+
+id 746
+texture 4
+x 7
+y 3
+
+id 747
+texture 4
+x 7
+y 4
+
+id 748
+texture 4
+x 7
+y 5
+
+id 749
+texture 4
+x 7
+y 6
+
+id 750
+texture 4
+x 7
+y 7
+
+id 751
+texture 4
+x 7
+y 8
+
+id 752
+texture 4
+x 7
+y 9
+
+id 753
+texture 4
+x 7
+y 10
+
+id 754
+texture 4
+x 8
+y 2
+
+id 755
+texture 4
+x 8
+y 3
+
+id 756
+texture 4
+x 8
+y 4
+
+id 757
+texture 4
+x 8
+y 5
+
+id 758
+texture 4
+x 8
+y 6
+
+id 759
+texture 4
+x 8
+y 7
+
+id 760
+texture 4
+x 8
+y 8
+
+id 761
+texture 4
+x 8
+y 9
+
+id 762
+texture 4
+x 8
+y 10
+
+id 763
+texture 4
+x 9
+y 2
+
+id 764
+texture 4
+x 9
+y 3
+
+id 765
+texture 4
+x 9
+y 4
+
+id 769
+texture 4
+x 9
+y 8
+
+id 770
+texture 4
+x 9
+y 9
+
+id 771
+texture 4
+x 9
+y 10
+
+id 772
+texture 4
+x 9
+y 5
+
+id 773
+texture 4
+x 9
+y 6
+
+id 774
+texture 4
+x 9
+y 7
+
+id 775
+texture 4
+x 10
+y 5
+
+id 776
+texture 4
+x 10
+y 6
+
+id 777
+texture 4
+x 10
+y 7
+
+id 778
+texture 4
+x 11
+y 5
+
+id 779
+texture 4
+x 11
+y 6
+
+id 780
+texture 4
+x 11
+y 7
+
+id 781
+texture 0
+x 3
+y 3
+

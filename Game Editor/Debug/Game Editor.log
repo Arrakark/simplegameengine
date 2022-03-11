@@ -1,0 +1,31 @@
+﻿  Editor.cpp
+Editor.cpp(95): warning C4018: '<': signed/unsigned mismatch
+Editor.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(139): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(169): warning C4018: '<': signed/unsigned mismatch
+Editor.cpp(194): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(199): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(203): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Editor.cpp(206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(207): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(242): warning C4018: '<': signed/unsigned mismatch
+Editor.cpp(252): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(253): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(261): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Editor.cpp(304): warning C4018: '<': signed/unsigned mismatch
+  MyForm.cpp
+c:\users\comsa\documents\visual studio 2015\projects\game editor\game editor\MyForm.h(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\comsa\documents\visual studio 2015\projects\game editor\game editor\MyForm.h(479): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'System::String ^'
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+Texture.obj : warning LNK4248: unresolved typeref token (01000015) for 'SDL_Renderer'; image may not run
+Editor.obj : warning LNK4248: unresolved typeref token (01000016) for 'SDL_Renderer'; image may not run
+Editor.obj : warning LNK4248: unresolved typeref token (01000019) for 'SDL_Window'; image may not run
+Texture.obj : warning LNK4248: unresolved typeref token (01000017) for 'SDL_Texture'; image may not run
+  Game Editor.vcxproj -> C:\Users\comsa\Documents\Visual Studio 2015\Projects\Game Editor\Debug\Game Editor.exe
+  Game Editor.vcxproj -> C:\Users\comsa\Documents\Visual Studio 2015\Projects\Game Editor\Debug\Game Editor.pdb (Full PDB)
